@@ -1,0 +1,101 @@
+{
+  "sourceLanguage" : "hu",
+  "strings" : {
+    "%@ - %@" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%lld %@" : {
+      "localizations" : {
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@"
+          }
+        }
+      }
+    },
+    "A kiválasztott vármegyék nem összefüggőek." : {
+
+    },
+    "A matrica\nvásárlás\nsikeres!" : {
+
+    },
+    "A vásárlás\nsikertelen volt" : {
+
+    },
+    "E-matrica" : {
+
+    },
+    "éves" : {
+
+    },
+    "Éves vármegyei" : {
+
+    },
+    "Éves vármegyei matricák" : {
+
+    },
+    "Feldolgozás…" : {
+
+    },
+    "Figyelmeztetés" : {
+
+    },
+    "Fizetendő összeg" : {
+
+    },
+    "Ft" : {
+
+    },
+    "havi" : {
+
+    },
+    "heti (10 napos)" : {
+
+    },
+    "Matrica típusa" : {
+
+    },
+    "Matrica választás" : {
+
+    },
+    "Mégsem" : {
+
+    },
+    "napi (1 napos)" : {
+
+    },
+    "Országos matrica" : {
+
+    },
+    "Országos matricák" : {
+
+    },
+    "Rendben" : {
+
+    },
+    "Rendszám" : {
+
+    },
+    "Tovább" : {
+
+    },
+    "Vármegyék kiválasztása" : {
+
+    },
+    "Vásárlás" : {
+
+    },
+    "Vásárlás megerősítése" : {
+
+    }
+  },
+  "version" : "1.0"
+}
